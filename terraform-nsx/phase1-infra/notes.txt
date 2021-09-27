@@ -1,0 +1,14 @@
+## base
+# compute manager
+# transport-profile
+# transport-zone
+# uplink-profile
+# tep-pool
+# edge-cluster
+# edge-vm
+
+## router
+# tier-0
+# ls-uplink
+# bgp-peer
+
